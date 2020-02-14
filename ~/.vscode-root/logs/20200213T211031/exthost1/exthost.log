@@ -1,0 +1,29 @@
+[2020-02-13 20:10:41.381] [exthost] [info] extension host started
+[2020-02-13 20:10:41.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-02-13 20:10:41.500] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-02-13 20:10:41.542] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-02-13 20:10:41.542] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-02-13 20:10:41.630] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-02-13 20:10:41.630] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/git/dist/main
+[2020-02-13 20:10:41.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-02-13 20:10:41.785] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-02-13 20:10:41.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-02-13 20:10:41.795] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-02-13 20:10:41.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-02-13 20:10:41.801] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-02-13 20:10:41.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-02-13 20:10:41.818] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/npm/dist/main
+[2020-02-13 20:10:42.037] [exthost] [info] eager extensions activated
+[2020-02-13 20:22:28.811] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-02-13 20:22:28.811] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-02-13 20:22:28.817] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-02-13 20:22:28.817] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-02-13 20:22:28.879] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-02-13 20:22:28.879] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-02-13 20:22:29.314] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-02-13 20:22:29.314] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-02-13 21:07:16.938] [exthost] [info] [vscode.typescript-language-features] UNSAVE result from 'resolveCompletionItem', extension SHOULD NOT change any of: additionalTextEdits, or command
+[2020-02-13 21:09:14.873] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-02-13 21:09:14.874] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-02-13 21:33:06.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:scss"}
+[2020-02-13 21:33:06.076] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/24/usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain

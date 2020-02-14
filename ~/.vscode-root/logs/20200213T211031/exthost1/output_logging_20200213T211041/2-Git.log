@@ -1,0 +1,1793 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/maurinho/Documentos/angular-projects/cursoangular
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :package.json
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/package.json
+> git cat-file -s e72c32320a6b2bbab0e549aa924b079460f0960d
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :angular.json
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/angular.json
+> git cat-file -s c2a04f2f715e0c6c0908a5f60807c0ea90b2281f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.html
+> git cat-file -s 72fd8e2a5c1c1deb9fafcd754a833871986cb7d9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.html
+> git symbolic-ref --short HEAD
+> git cat-file -s 72fd8e2a5c1c1deb9fafcd754a833871986cb7d9
+> git rev-parse master
+> git show :src/app/app.component.html
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.ts
+> git cat-file -s 5b028b4670d0e0b873565a5a988df6359f50eded
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.ts
+> git cat-file -s 5b028b4670d0e0b873565a5a988df6359f50eded
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.ts
+> git cat-file -s 5b028b4670d0e0b873565a5a988df6359f50eded
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.ts
+> git cat-file -s 5b028b4670d0e0b873565a5a988df6359f50eded
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.html
+> git cat-file -s 72fd8e2a5c1c1deb9fafcd754a833871986cb7d9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.html
+> git cat-file -s 72fd8e2a5c1c1deb9fafcd754a833871986cb7d9
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/courses/course.component.scss
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course.component.scss
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/courses/course.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course.component.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/index.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/index.html
+> git cat-file -s 36b63cc054c7eb73f9c3929cb4766227311b065e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.html
+> git cat-file -s 72fd8e2a5c1c1deb9fafcd754a833871986cb7d9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/login/login.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.html
+> git cat-file -s 72fd8e2a5c1c1deb9fafcd754a833871986cb7d9
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/courses/course.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course.component.html
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/courses/course.component.scss
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course.component.scss
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.ts
+> git cat-file -s 5b028b4670d0e0b873565a5a988df6359f50eded
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/login/login.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/login/login.component.scss
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.scss
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/courses/course.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course.component.html
+> git show :src/app/login/login.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.html
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git show :src/app/login/login.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.html
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git show :src/app/app.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.html
+> git cat-file -s 72fd8e2a5c1c1deb9fafcd754a833871986cb7d9
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.ts
+> git cat-file -s 5b028b4670d0e0b873565a5a988df6359f50eded
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git show :src/app/courses/course.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course.component.html
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.ts
+> git cat-file -s 5b028b4670d0e0b873565a5a988df6359f50eded
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/index.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/index.html
+> git cat-file -s 36b63cc054c7eb73f9c3929cb4766227311b065e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/errors/error.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/errors/error.component.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.ts
+> git cat-file -s 5b028b4670d0e0b873565a5a988df6359f50eded
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git show :src/index.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/index.html
+> git cat-file -s 36b63cc054c7eb73f9c3929cb4766227311b065e
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git show :src/app/app.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.component.ts
+> git cat-file -s 5b028b4670d0e0b873565a5a988df6359f50eded
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/errors/error.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/errors/error.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/errors/error.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/errors/error.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app.module.ts
+> git cat-file -s 2c3ba2995c8510c02ca812f90280146738f162cf
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git show :src/app/errors/error.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/errors/error.component.ts
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/errors/error.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/errors/error.component.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/errors/style.scss
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/errors/style.scss
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/errors/error.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/errors/error.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/errors/style.scss
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/errors/style.scss
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git show :src/app/errors/error.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/errors/error.component.html
+> git show :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/app-routing.module.ts
+> git cat-file -s 06c734263e1716e120bbb2771845eca1ae74c055
+> git show :src/app/errors/error.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/errors/error.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/errors/error.component.html
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/errors/error.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/courses/course.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/login/login.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/login/login.component.ts
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git show :src/app/courses/course.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course.ts
+> git show :src/app/courses/course-list.component.ts
+> git ls-files --stage -- /home/maurinho/Documentos/angular-projects/cursoangular/src/app/courses/course-list.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/maurinho/Documentos/angular-projects/cursoangular/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:592056)
+	at E.updateTransientWatchers (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:123260)
+	at l.fire (/snap/code/24/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:48:561)
+	at R.updateModelState (/snap/code/24/usr/share/code/resources/app/extensions/git/dist/main.js:1:142118)
+> git config --get commit.template
